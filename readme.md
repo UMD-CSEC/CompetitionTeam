@@ -20,6 +20,9 @@
 - [/r/reverseengineering](http://reddit.com/r/reverseengineering)  
 
 ##Contact
-tquinn{at}csec{dot}umiacs{dot}umd{dot}edu  
-compteam{at}csec{dot}umiacs{dot}umd{dot}edu  
-secretary{at}csec{dot}umiacs{dot}umd{dot}edu  
+President  
+- tquinn{at}csec{dot}umiacs{dot}umd{dot}edu  
+Competition Team Lead  
+- compteam{at}csec{dot}umiacs{dot}umd{dot}edu  
+Secretary  
+- secretary{at}csec{dot}umiacs{dot}umd{dot}edu  
