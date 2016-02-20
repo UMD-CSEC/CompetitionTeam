@@ -11,7 +11,7 @@
 - [Ubuntu SEED](http://www.cis.syr.edu/~wedu/seed/lab_env.html)  
 
 ##Tools
-- [IDA Pro](bit.ly/1HHt03F)  
+- [IDA Pro](http://bit.ly/1HHt03F)  
 - [Tom's .vimrc](http://github.com/eronage/.vim)  
 - [Steve's dotfiles](https://github.com/SmartestDoge/dotfiles)  
 
