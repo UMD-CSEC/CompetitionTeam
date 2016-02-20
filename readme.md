@@ -5,10 +5,10 @@
 - [CTFtime Profile](https://ctftime.org/team/22066)  
 
 ##Exercises
-- [Reverse Engineering](ter.ps/ReverseEng)  
-- [Shellshock](ter.ps/how2shsk)  
-- [Buffer Overflow Lab](ter.ps/buffer)  
-- [Ubuntu SEED](ter.ps/seed)  
+- [Reverse Engineering](http://ter.ps/ReverseEng)  
+- [Shellshock](http://ter.ps/how2shsk)  
+- [Buffer Overflow Lab](http://ter.ps/buffer)  
+- [Ubuntu SEED](http://www.cis.syr.edu/~wedu/seed/lab_env.html)  
 
 ##Tools
 - [IDA Pro](bit.ly/1HHt03F)  
