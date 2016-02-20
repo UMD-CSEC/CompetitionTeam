@@ -10,11 +10,6 @@
 - [Buffer Overflow Lab](ter.ps/buffer)  
 - [Ubuntu SEED](ter.ps/seed)  
 
-##Contact
-tquinn{at}csec{dot}umiacs{dot}umd{dot}edu  
-compteam{at}csec{dot}umiacs{dot}umd{dot}edu  
-secretary{at}csec{dot}umiacs{dot}umd{dot}edu  
-
 ##Tools
 - [IDA Pro](bit.ly/1HHt03F)  
 - [Tom's .vimrc](http://github.com/eronage/.vim)  
@@ -23,3 +18,8 @@ secretary{at}csec{dot}umiacs{dot}umd{dot}edu
 ##Sources
 - [/r/netsec](http://reddit.com/r/netsec)  
 - [/r/reverseengineering](http://reddit.com/r/reverseengineering)  
+
+##Contact
+tquinn{at}csec{dot}umiacs{dot}umd{dot}edu  
+compteam{at}csec{dot}umiacs{dot}umd{dot}edu  
+secretary{at}csec{dot}umiacs{dot}umd{dot}edu  
