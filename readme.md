@@ -21,7 +21,7 @@
 
 ##Contact
 President  
-- tquinn{at}csec{dot}umiacs{dot}umd{dot}edu  
+- president{at}csec{dot}umiacs{dot}umd{dot}edu  
 
 Competition Team Lead  
 - compteam{at}csec{dot}umiacs{dot}umd{dot}edu  
